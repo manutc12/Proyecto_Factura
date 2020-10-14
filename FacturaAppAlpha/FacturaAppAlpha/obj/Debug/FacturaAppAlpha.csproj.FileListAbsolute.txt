@@ -1,0 +1,17 @@
+C:\Users\jugue\source\repos\FacturaAppAlpha\FacturaAppAlpha\bin\Debug\FacturaAppAlpha.exe.config
+C:\Users\jugue\source\repos\FacturaAppAlpha\FacturaAppAlpha\bin\Debug\FacturaAppAlpha.exe
+C:\Users\jugue\source\repos\FacturaAppAlpha\FacturaAppAlpha\bin\Debug\FacturaAppAlpha.pdb
+C:\Users\jugue\source\repos\FacturaAppAlpha\FacturaAppAlpha\obj\Debug\FacturaAppAlpha.csprojAssemblyReference.cache
+C:\Users\jugue\source\repos\FacturaAppAlpha\FacturaAppAlpha\obj\Debug\FacturaAppAlpha.Form1.resources
+C:\Users\jugue\source\repos\FacturaAppAlpha\FacturaAppAlpha\obj\Debug\FacturaAppAlpha.Properties.Resources.resources
+C:\Users\jugue\source\repos\FacturaAppAlpha\FacturaAppAlpha\obj\Debug\FacturaAppAlpha.csproj.GenerateResource.cache
+C:\Users\jugue\source\repos\FacturaAppAlpha\FacturaAppAlpha\obj\Debug\FacturaAppAlpha.csproj.CoreCompileInputs.cache
+C:\Users\jugue\source\repos\FacturaAppAlpha\FacturaAppAlpha\obj\Debug\FacturaAppAlpha.exe
+C:\Users\jugue\source\repos\FacturaAppAlpha\FacturaAppAlpha\obj\Debug\FacturaAppAlpha.pdb
+C:\Users\jugue\source\repos\FacturaAppAlpha\FacturaAppAlpha\obj\Debug\FacturaAppAlpha.Consultar_Factura.resources
+C:\Users\jugue\source\repos\FacturaAppAlpha\FacturaAppAlpha\obj\Debug\FacturaAppAlpha.Menu.resources
+C:\Users\jugue\source\repos\FacturaAppAlpha\FacturaAppAlpha\obj\Debug\FacturaAppAlpha.Anular_Factura.resources
+C:\Users\jugue\source\repos\FacturaAppAlpha\FacturaAppAlpha\obj\Debug\FacturaAppAlpha.Eliminar_Factura.resources
+C:\Users\jugue\source\repos\FacturaAppAlpha\FacturaAppAlpha\obj\Debug\FacturaAppAlpha.Factura_Individual.resources
+C:\Users\jugue\source\repos\FacturaAppAlpha\FacturaAppAlpha\obj\Debug\FacturaAppAlpha.Factura_Masiva.resources
+C:\Users\jugue\source\repos\FacturaAppAlpha\FacturaAppAlpha\obj\Debug\FacturaAppAlpha.MenuIngresar.resources
